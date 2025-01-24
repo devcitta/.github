@@ -5,4 +5,4 @@ Descreva brevemente quais funcionalidades foram incluídas ou quais problemas fo
 ## Checklist
 
 - [] O código segue o padrão do Style Guide.
-- [] Realizei os testes necessários para verificar a implentação da correção/feature.
+- [] Realizei os testes necessários para verificar a implementação da correção/feature.
