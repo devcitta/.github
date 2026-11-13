@@ -16,6 +16,17 @@ Texto que o cliente lê no sistema depois da atualização.
 - Tipo:
 - Texto:
 
+## Versão
+
+<!--
+Quanto a versão deste repositório sobe. O Jenkins grava a versão: não altere o número nos arquivos do repositório.
+- major: funcionalidade nova e grande, com impacto considerável no uso do sistema pelos usuários.
+- minor: melhoria ou implementação simples.
+- patch: correção, ou alteração sem efeito para quem usa o sistema.
+-->
+
+- Incremento:
+
 ## Checklist
 
 - [] O código segue o padrão do Style Guide.
