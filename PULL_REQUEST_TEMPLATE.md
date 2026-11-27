@@ -6,15 +6,17 @@ Descreva brevemente quais funcionalidades foram incluídas ou quais problemas fo
 
 <!--
 Texto que o cliente lê no sistema depois da atualização.
-- Mudança que não aparece para o usuário (refatoração, testes, build, API cuja tela vem em outro PR): apague os três campos e escreva "Não se aplica".
+- Mudança que não aparece para o usuário (refatoração, testes, build, API cuja tela vem em outro PR): apague os campos e escreva "Não se aplica".
 - Sistema: o nome que o cliente conhece (Processo, Arrecadação, Patrimônio...), não o repositório. Mais de um: separe por vírgula.
 - Tipo: Novidade, Melhoria ou Correção.
 - Texto: uma ou duas frases em linguagem de usuário, sem termos técnicos, nomes de clientes ou detalhes de segurança.
+- Destinatários (opcional): e-mails dos usuários do sistema a avisar sobre esta nota, separados por vírgula, como estão no Conecta. Sem destinatário, apague a linha. Só e-mail: nunca CPF nem outro dado pessoal.
 -->
 
 - Sistema:
 - Tipo:
 - Texto:
+- Destinatários:
 
 ## Versão
 
